@@ -29,3 +29,18 @@ More details:
  example: app.py -m playlist -u <play_list_url> 
  example: app.py -m single -u <video_url> --mp3 yes
 ```
+
+# References
+
+```Python
+# https://pytube.io/en/latest/api.html
+# https://www.geeksforgeeks.org/download-video-in-mp3-format-using-pytube/
+
+# https://stackoverflow.com/questions/65683517/how-do-you-download-a-playlist-from-youtube-using-pytube
+
+# argsparse
+# https://docs.python.org/3/howto/argparse.html
+# https://stackoverflow.com/questions/15836713/allowing-specific-values-for-an-argparse-argument
+# https://towardsdatascience.com/a-simple-guide-to-command-line-arguments-with-argparse-6824c30ab1c3
+# https://stackoverflow.com/questions/28638813/how-to-make-a-short-and-long-version-of-a-required-argument-using-python-argpars
+```
